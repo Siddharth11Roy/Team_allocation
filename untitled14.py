@@ -82,7 +82,7 @@ Original file is located at
 # # Run the program
 # assign_teams(file_path, output_path)
 
-pip install streamlit
+# !pip install streamlit
 
 import pandas as pd
 import random
